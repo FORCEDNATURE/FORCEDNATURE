@@ -9,7 +9,7 @@
 <br/>
 <br/>
 
-$\color{#0b15dc}{\textsf{i love tf2, ff2, homestuck, metalocalypse, tc2, metal family      }}\qquad$
+$\color{#0b15dc}{\textsf{i love tf2, ff2, homestuck, metalocalypse, eddsworld, zero day (tcc dni),  tc2, metal family      }}\qquad$
 
 <img width="600" height="10" alt="image" src="https://64.media.tumblr.com/b66ae61e7c5d5176b4c9364a8bf83517/ce4a85b266d655ed-d7/s500x750/391635da582c881ff6ae4c0aebd06b85da9708f6.gif" />
 
