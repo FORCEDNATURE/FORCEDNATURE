@@ -4,15 +4,14 @@
 
 <div align="center">
 
-<img width="30" height="30" alt="" src="https://www.pngkey.com/png/full/39-398913_scout-emblem-blu-team-fortress-2.png"/> $\color{#38618a}{\textsf{︶}}\qquad$ [ata](https://literallyscout.atabook.org) [lurkme](https://scout.lurk.me) [prns](https://en.pronouns.page/@literallyscout) $\color{#38618a}{\textsf{︶}}\qquad$ [alt](https://github.com/jjerma985) $\color{#38618a}{\textsf{︶}}\qquad$ [other alt](https://github.com/skwistok)
-
+<img width="30" height="30" alt="" src="https://www.pngkey.com/png/full/39-398913_scout-emblem-blu-team-fortress-2.png"/> $\color{#38618a}{\textsf{︶}}\qquad$ [ata](https://literallyscout.atabook.org) [lurkme](https://scout.lurk.me) [straw](https://forcednature.straw.page) [prns](https://en.pronouns.page/@literallyscout) $\color{#38618a}{\textsf{︶}}\qquad$ [alt](https://github.com/jjerma985) $\color{#38618a}{\textsf{︶}}\qquad$ [other alt](https://github.com/skwistok)
 
 <br/>
 <br/>
 
 $\color{#38618a}{\textsf{i love tf2, ff2, homestuck, metalocalypse, tc2, metal family      }}\qquad$
 
-<img width="600" height="40" alt="image" src="https://64.media.tumblr.com/b66ae61e7c5d5176b4c9364a8bf83517/ce4a85b266d655ed-d7/s500x750/391635da582c881ff6ae4c0aebd06b85da9708f6.gif" />
+<img width="600" height="10" alt="image" src="https://64.media.tumblr.com/b66ae61e7c5d5176b4c9364a8bf83517/ce4a85b266d655ed-d7/s500x750/391635da582c881ff6ae4c0aebd06b85da9708f6.gif" />
 
 
 
