@@ -34,12 +34,3 @@ $\color{#0b15dc}{\textsf{ /  they  }}\qquad$
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31yis6ybj56slfofuru55xi2lz5u&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=true">
   </a>
 </p>
-
-<br/>
-<br/>
-<br/>
-<br/>
-<div align="center">
-<img width="543" height="173" alt="image" src="https://github.com/user-attachments/assets/cd635bba-c699-463e-afb4-357c6d86150a" />
-
-$\color{#0b15dc}{\textsf{my pet sniper, isnt he so cute?}}\qquad$
