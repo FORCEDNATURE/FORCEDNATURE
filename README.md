@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img width="30" height="30" alt="" src="https://www.pngkey.com/png/full/39-398913_scout-emblem-blu-team-fortress-2.png"/> $\color{#0b15dc}{\textsf{︶}}\qquad$ [ata](https://literallyscout.atabook.org) [lurkme](https://scout.lurk.me) [straw](https://forcednature.straw.page) [prns](https://en.pronouns.page/@literallyscout) $\color{#0b15dc}{\textsf{︶}}\qquad$ [alt](https://github.com/jjerma985) $\color{#0b15dc}{\textsf{︶}}\qquad$ [other alt](https://github.com/skwistok)
+<img width="30" height="30" alt="" src="https://www.pngkey.com/png/full/39-398913_scout-emblem-blu-team-fortress-2.png"/> $\color{#0b15dc}{\textsf{︶}}\qquad$ [ata](https://literallyscout.atabook.org)[straw](https://forcednature.straw.page) [prns](https://en.pronouns.page/@literallyscout) $\color{#0b15dc}{\textsf{︶}}\qquad$ [alt](https://github.com/jjerma985) $\color{#0b15dc}{\textsf{︶}}\qquad$ [other alt](https://github.com/skwistok)
 
 <br/>
 <br/>
