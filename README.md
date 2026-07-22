@@ -1,5 +1,5 @@
 
-<img width="300" height="300" alt="image" src="https://64.media.tumblr.com/75c689746dc930fde5ab5922779c403e/28b536b69864a744-44/s640x960/a1c6c38d4032b4c7d5edcb4088ffb9c1bb21c3ff.pnj" align="left" hspace="25"/>
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/6ed57e3c-185f-45ed-a346-0348c3d40738" align="left" hspace="25"/>
 
 
 <div align="center">
@@ -11,7 +11,7 @@
 
 $\color{#0b15dc}{\textsf{i love tf2, ff2, homestuck, metalocalypse, eddsworld, zero day (tcc dni),  tc2, metal family      }}\qquad$
 
-<img width="600" height="10" alt="image" src="https://64.media.tumblr.com/b66ae61e7c5d5176b4c9364a8bf83517/ce4a85b266d655ed-d7/s500x750/391635da582c881ff6ae4c0aebd06b85da9708f6.gif" />
+<img width="600" height="90" alt="image" src="https://github.com/user-attachments/assets/178bb1dc-7d98-414a-bdcf-af1d28d12bea" />
 
 
 
