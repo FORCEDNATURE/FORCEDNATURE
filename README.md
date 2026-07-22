@@ -1,5 +1,5 @@
 
-<img width="400" height="400" alt="New Project (11)" src="https://github.com/user-attachments/assets/0b105a81-de45-4e69-9903-5d0a78864952" align="left" hspace="25"/>
+<img width="400" height="400" alt="New Project (11)" src="https://cdn.discordapp.com/attachments/1423878256674865174/1529569535185911829/Untitled188_20260722202308.png?ex=6a626a23&is=6a6118a3&hm=842ec923fbccc7b3abf1cb3cae7d92b7f82cc8562947e3dc36a4dd9c5e77a21d&" align="left" hspace="25"/>
 
 
 <div align="center">
