@@ -28,6 +28,10 @@ $\color{#0b15dc}{\textsf{ /  they  }}\qquad$
 
 <img width="378" height="62" alt="image" src="https://github.com/user-attachments/assets/29c9bf4c-0b15-4270-9d90-f89c9fb085a6" align="right" hspace="25"/>
 
+<img width="378" height="62" alt="image" src="https://github.com/user-attachments/assets/45cc00ae-b54e-4d3e-8fb1-32d21301c098" />
+
+
+
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
