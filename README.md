@@ -9,7 +9,7 @@
 <br/>
 <br/>
 
-$\color{#0b15dc}{\textsf{i love tf2, ff2, metalocalypse, tc2 n metal family      }}\qquad$
+$\color{#ffffff}{\textsf{ mostly fixated on freak fortress  }}\qquad$
 
 <img width="600" height="90" alt="image" src="https://github.com/user-attachments/assets/178bb1dc-7d98-414a-bdcf-af1d28d12bea" />
 
