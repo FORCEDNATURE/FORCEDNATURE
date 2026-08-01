@@ -11,7 +11,7 @@
 
 $\color{#ffffff}{\textsf{ mostly fixated on freak fortress  }}\qquad$
 
-<img width="600" height="90" alt="image" src="https://github.com/user-attachments/assets/178bb1dc-7d98-414a-bdcf-af1d28d12bea" />
+<img width="600" height="120" alt="image" src="https://github.com/user-attachments/assets/287fad4a-3636-4f78-9db0-54a0fa4ca54d" />
 
 
 
