@@ -1,10 +1,10 @@
 
-<img width="400" height="400" alt="New Project (11)" src="https://cdn.discordapp.com/attachments/1423878256674865174/1529569535185911829/Untitled188_20260722202308.png?ex=6a626a23&is=6a6118a3&hm=842ec923fbccc7b3abf1cb3cae7d92b7f82cc8562947e3dc36a4dd9c5e77a21d&" align="left" hspace="25"/>
+<img width="400" height="400" alt="New Project (11)" src="https://github.com/user-attachments/assets/87144151-fdb5-42b7-8700-f9c613b9545f" align="left" hspace="25"/>
 
 
 <div align="center">
 
-<img width="30" height="30" alt="" src="https://www.pngkey.com/png/full/39-398913_scout-emblem-blu-team-fortress-2.png"/> $\color{#0b15dc}{\textsf{︶}}\qquad$ [ata](https://literallyscout.atabook.org) [straw](https://forcednature.straw.page) [prns](https://en.pronouns.page/@literallyscout) $\color{#0b15dc}{\textsf{︶}}\qquad$ [alt](https://github.com/jjerma985)
+<img width="30" height="30" alt="" src="https://github.com/user-attachments/assets/918eff34-52e6-487e-a2e0-b5a020a02954"/> $\color{#ffffff}{\textsf{︶}}\qquad$ [ata](https://literallyscout.atabook.org) [straw](https://forcednature.straw.page) [prns](https://en.pronouns.page/@literallyscout) $\color{#ffffff}{\textsf{︶}}\qquad$ [alt](https://github.com/jjerma985)
 
 <br/>
 <br/>
@@ -21,9 +21,9 @@ $\color{#0b15dc}{\textsf{i love tf2, ff2, metalocalypse, tc2 n metal family     
 
 <div align="center">
   
-$\color{#0b15dc}{\textsf{jerma or scoutㅤׂ      }}\qquad$
-$\color{#0b15dc}{\textsf{he  }}\qquad$
-$\color{#0b15dc}{\textsf{ /  they  }}\qquad$
+$\color{#ffffff}{\textsf{jerma or scoutㅤׂ      }}\qquad$
+$\color{#ffffff}{\textsf{he  }}\qquad$
+$\color{#ffffff}{\textsf{ /  they  }}\qquad$
 
 
 <img width="378" height="62" alt="image" src="https://github.com/user-attachments/assets/29c9bf4c-0b15-4270-9d90-f89c9fb085a6" align="right" hspace="25"/>
