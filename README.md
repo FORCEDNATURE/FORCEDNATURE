@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img width="30" height="30" alt="" src="https://github.com/user-attachments/assets/918eff34-52e6-487e-a2e0-b5a020a02954"/> $\color{#ffffff}{\textsf{︶}}\qquad$ [ata](https://literallyscout.atabook.org) [straw](https://forcednature.straw.page) [prns](https://en.pronouns.page/@literallyscout) $\color{#ffffff}{\textsf{︶}}\qquad$ [alt](https://github.com/jjerma985)
+<img width="30" height="30" alt="" src="https://github.com/user-attachments/assets/918eff34-52e6-487e-a2e0-b5a020a02954"/> $\color{#ffffff}{\textsf{︶}}\qquad$ [ata](https://literallyscout.atabook.org) [straw](https://forcednature.straw.page) $\color{#ffffff}{\textsf{︶}}\qquad$ [alt](https://github.com/jjerma985)
 
 <br/>
 <br/>
