@@ -9,7 +9,13 @@
 <br/>
 <br/>
 
-$\color{#ffffff}{\textsf{ mostly fixated on freak fortress  }}\qquad$
+$\color{#ffffff}{\textsf{ fixated on freak fortress  }}\qquad$
+
+$\color{#ababab}{\textsf{ always iwc !  }}\qquad$
+
+$\color{#767676}{\textsf{ c+h enc even if its not in my name  }}\qquad$
+
+$\color{#3c3c3c}{\textsf{ usually ontab listenin 2 music or with friends, if not w2i  }}\qquad$
 
 <img width="600" height="120" alt="image" src="https://github.com/user-attachments/assets/287fad4a-3636-4f78-9db0-54a0fa4ca54d" />
 
