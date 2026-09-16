@@ -27,7 +27,7 @@ $\color{#3c3c3c}{\textsf{ usually ontab listenin 2 music or with friends, if not
 
 <div align="center">
   
-$\color{#ffffff}{\textsf{jerma or scoutㅤׂ      }}\qquad$
+$\color{#ffffff}{\textsf{jerma, piss or pancakesㅤׂ      }}\qquad$
 $\color{#ffffff}{\textsf{he  }}\qquad$
 $\color{#ffffff}{\textsf{ /  they  }}\qquad$
 
