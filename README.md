@@ -28,8 +28,8 @@ $\color{#3c3c3c}{\textsf{ usually ontab listenin 2 music or with friends, if not
 <div align="center">
   
 $\color{#ffffff}{\textsf{jerma, piss or pancakesㅤׂ      }}\qquad$
-$\color{#ffffff}{\textsf{he  }}\qquad$
-$\color{#ffffff}{\textsf{ /  they  }}\qquad$
+$\color{#ffffff}{\textsf{they  }}\qquad$
+$\color{#ffffff}{\textsf{ / freak  }}\qquad$
 
 
 <img width="378" height="62" alt="image" src="https://github.com/user-attachments/assets/29c9bf4c-0b15-4270-9d90-f89c9fb085a6" align="right" hspace="25"/>
