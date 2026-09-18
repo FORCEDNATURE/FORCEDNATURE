@@ -23,7 +23,7 @@
 
 <img width="198" height="112" alt="image" src="https://github.com/user-attachments/assets/90d331f0-f296-46c3-87a4-9799486c220b" width="198" height="112" align="left">  
 
-<img width="30" height="30" alt="" src="https://github.com/user-attachments/assets/918eff34-52e6-487e-a2e0-b5a020a02954"/> $\color{#ffffff}{\textsf{︶}}\qquad$ [ata](https://literallyscout.atabook.org) [guns.lol](https://guns.lol/forcednature) [straw](https://forcednature.straw.page)
+<img width="30" height="30" alt="" src="https://github.com/user-attachments/assets/918eff34-52e6-487e-a2e0-b5a020a02954"/> $\color{#ffffff}{\textsf{︶}}\qquad$ [ata](https://literallyscout.atabook.org) [guns](https://guns.lol/forcednature) [straw](https://forcednature.straw.page)
 
 
   </details>
