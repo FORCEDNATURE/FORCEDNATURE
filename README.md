@@ -1,5 +1,3 @@
-<img width="440" height="250" alt="picmix com_2496757" src="https://github.com/user-attachments/assets/a16ff89d-5e73-4aef-a44d-f5cf00143605" />
-
 
 <img width="378" height="62" alt="image" src="https://github.com/user-attachments/assets/29c9bf4c-0b15-4270-9d90-f89c9fb085a6" align="right" hspace="25"/>
 
@@ -32,5 +30,5 @@
   <p align="center">ㅤ
 <img width="548" height="74" alt="image" src="https://github.com/user-attachments/assets/a59131aa-b047-423d-b2c9-91f78b2f86e2" />
 
-
+<img width="180" height="73" alt="picmix com_2496757" src="https://github.com/user-attachments/assets/d493293f-93b5-4b48-a323-1621e080ccbd" />
 
