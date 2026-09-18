@@ -1,10 +1,9 @@
-<img width="140" height="80" alt="picmix com_2496757" src="https://github.com/user-attachments/assets/a16ff89d-5e73-4aef-a44d-f5cf00143605" />
+<img width="440" height="250" alt="picmix com_2496757" src="https://github.com/user-attachments/assets/a16ff89d-5e73-4aef-a44d-f5cf00143605" />
 
 
 <img width="378" height="62" alt="image" src="https://github.com/user-attachments/assets/29c9bf4c-0b15-4270-9d90-f89c9fb085a6" align="right" hspace="25"/>
 
-<img width="378" height="62" alt="image" src="https://github.com/user-attachments/assets/45cc00ae-b54e-4d3e-8fb1-32d21301c098" />
-
+<img width="378" height="62" alt="image" src="https://github.com/user-attachments/assets/45cc00ae-b54e-4d3e-8fb1-32d21301c098" align="right" hspace="25"/>
 <img width="2048" height="204" alt="image" src="https://github.com/user-attachments/assets/3d5ca39d-d3a9-4541-9207-9fff314cd0db" />
 
 <img width="400" height="400" alt="New Project (11)" src="https://github.com/user-attachments/assets/87144151-fdb5-42b7-8700-f9c613b9545f" align="right" hspace="25"/>
