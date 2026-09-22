@@ -30,7 +30,7 @@
  <br/>
 <p align="center">ㅤ
   <p align="center">ㅤ
-<img width="548" height="74" alt="image" src="https://github.com/user-attachments/assets/a59131aa-b047-423d-b2c9-91f78b2f86e2" />
+<img width="558" height="74" alt="image" src="https://github.com/user-attachments/assets/a59131aa-b047-423d-b2c9-91f78b2f86e2" />
 
-<img width="180" height="73" alt="picmix com_2496757" src="https://github.com/user-attachments/assets/d493293f-93b5-4b48-a323-1621e080ccbd" />
+
 
