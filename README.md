@@ -1,12 +1,20 @@
-
+<picture>
 <img width="378" height="62" alt="image" src="https://github.com/user-attachments/assets/29c9bf4c-0b15-4270-9d90-f89c9fb085a6" align="right" hspace="25"/>
+</picture>
 
+<picture>
 <img width="378" height="62" alt="image" src="https://github.com/user-attachments/assets/45cc00ae-b54e-4d3e-8fb1-32d21301c098" align="right" hspace="25"/>
+</picture>
 
-<p align="center">ㅤ
+<p align="center">
+  <picture>ㅤ
 <img width="748" height="64" alt="image" src="https://github.com/user-attachments/assets/3d5ca39d-d3a9-4541-9207-9fff314cd0db" />
+</picture>
 
+<picture>
 <img width="400" height="400" alt="New Project (11)" src="https://github.com/user-attachments/assets/87144151-fdb5-42b7-8700-f9c613b9545f" align="right" hspace="25"/>
+</picture>
+
 
 <br>  
   <table>
@@ -21,16 +29,21 @@
     </tr>
   </table>
 
+<picture>
 <img width="128" height="72" alt="image" src="https://github.com/user-attachments/assets/90d331f0-f296-46c3-87a4-9799486c220b" width="198" height="112" align="left">  
+</picture>
 
-<img width="30" height="30" alt="" src="https://github.com/user-attachments/assets/918eff34-52e6-487e-a2e0-b5a020a02954"/> $\color{#ffffff}{\textsf{︶}}\qquad$ [ata](https://literallyscout.atabook.org) [guns](https://guns.lol/forcednature) [straw](https://forcednature.straw.page)
+<picture>
+<img width="30" height="30" alt="" src="https://github.com/user-attachments/assets/918eff34-52e6-487e-a2e0-b5a020a02954"/> 
+  </picture>
+  
+  $\color{#ffffff}{\textsf{︶}}\qquad$ [ata](https://literallyscout.atabook.org) [guns](https://guns.lol/forcednature) [straw](https://forcednature.straw.page)
 
 
   </details>
  <br/>
 <p align="center">ㅤ
   <p align="center">ㅤ
+    <picture>
 <img width="558" height="74" alt="image" src="https://github.com/user-attachments/assets/a59131aa-b047-423d-b2c9-91f78b2f86e2" />
-
-
-
+</picture>
