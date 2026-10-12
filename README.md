@@ -20,7 +20,7 @@
   <table>
     <tr>
       <td>
-     <img src="https://github.com/user-attachments/assets/4352f06f-d9e6-40d1-8086-f240653331db" width="50"> ${\textsf{\color{#ffffff} pancakes /}}$ ${\textsf{\color{#f5f3f4} jerma /}}$ ${\textsf{\color{#d3d3d3} piss}}$ 
+     <img src="https://github.com/user-attachments/assets/4352f06f-d9e6-40d1-8086-f240653331db" width="50"> ${\textsf{\color{#ffffff} pancakes /}}$ ${\textsf{\color{#f5f3f4} flancakes /}}$ ${\textsf{\color{#d3d3d3} piss}}$ 
         
   ${\textsf{\color{#ffffff} they}}$ ${\textsf{\color{#b7b7b7} / them}}$ ${\textsf{\color{#7d7d7d} / freak }}$ ${\textsf{\color{#5d5d5d} / freakself }}$ 
   
