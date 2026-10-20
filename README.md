@@ -20,11 +20,11 @@
   <table>
     <tr>
       <td>
-     <img src="https://github.com/user-attachments/assets/4352f06f-d9e6-40d1-8086-f240653331db" width="50"> ${\textsf{\color{#ffffff} pancakes /}}$ ${\textsf{\color{#f5f3f4} flancakes /}}$ ${\textsf{\color{#d3d3d3} piss}}$ 
+     <img src="https://media.discordapp.net/attachments/1423878256674865174/1562202608582529245/Untitled3_20261020213448.png?ex=6ad9220e&is=6ad7d08e&hm=225847a9d0827f61641a4d1b8d67c7e08c9fd178235eaf2e428e5f14fbbc4e0f&=&format=webp&quality=lossless&width=1024&height=1024" width="50"> ${\textsf{\color{#c4d7c5} pancakes /}}$ ${\textsf{\color{#f5f3f4} flancakes /}}$ ${\textsf{\color{#d3d3d3} piss}}$ 
         
   ${\textsf{\color{#c4d7c5} they}}$ ${\textsf{\color{#65678c} / them}}$ ${\textsf{\color{#231c39} / freak }}$ ${\textsf{\color{#181026} / freakself }}$ 
   
-  ${\textsf{\color{#c4d7c5} c+h enc }}$ ${\textsf{\color{#65678c} 'n always}}$  ${\textsf{\color{#231c39} w2i }}$  <img src="https://64.media.tumblr.com/59c1bb3c468a23f016bc3010b0fba127/521398d9fdafd883-c4/s500x750/8ca690bffd44741129e6e53bc674990799c4fad2.pnj" width="40"> 
+  ${\textsf{\color{#c4d7c5} c+h enc }}$ ${\textsf{\color{#65678c} 'n always}}$  ${\textsf{\color{#231c39} w2i }}$  <img src="https://media.discordapp.net/attachments/1423878256674865174/1562202609203290160/Untitled3_20261020213510.png?ex=6ad9220e&is=6ad7d08e&hm=2f43533d3c6f2bfed2d4553d48937c9de096bddd90d468dd7ea646440bc8419f&=&format=webp&quality=lossless&width=1024&height=1024" width="40"> 
       </td>
     </tr>
   </table>
