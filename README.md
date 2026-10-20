@@ -8,11 +8,11 @@
 
 <p align="center">
   <picture>ㅤ
-<img width="748" height="64" alt="image" src="https://github.com/user-attachments/assets/3d5ca39d-d3a9-4541-9207-9fff314cd0db" />
+<img width="558" height="94" alt="image" src="https://media.discordapp.net/attachments/1423878256674865174/1562198245151866982/Untitled3_20261020211752.png?ex=6ad91dfd&is=6ad7cc7d&hm=e1410dea808caeeef18d65f288c6207812cb4bd719bceee67a4b9fdb439cf2af&=&format=webp&quality=lossless&width=1280&height=256" />
 </picture>
 
 <picture>
-<img width="400" height="400" alt="New Project (11)" src="https://github.com/user-attachments/assets/87144151-fdb5-42b7-8700-f9c613b9545f" align="right" hspace="25"/>
+<img width="400" height="400" alt="image" src="https://media.discordapp.net/attachments/1423878256674865174/1562198359895445524/Untitled3_20261020211828.png?ex=6ad91e19&is=6ad7cc99&hm=ffdd996d043338cb3ca8fe125831eed38b1db5a2c215d8e769a0d418467052b4&=&format=webp&quality=lossless&width=1024&height=1024" align="right" hspace="25"/>
 </picture>
 
 
@@ -45,5 +45,5 @@
 <p align="center">ㅤ
   <p align="center">ㅤ
     <picture>
-<img width="558" height="74" alt="image" src="https://github.com/user-attachments/assets/a59131aa-b047-423d-b2c9-91f78b2f86e2" />
+<img width="558" height="94" alt="image" src="https://media.discordapp.net/attachments/1423878256674865174/1562198245151866982/Untitled3_20261020211752.png?ex=6ad91dfd&is=6ad7cc7d&hm=e1410dea808caeeef18d65f288c6207812cb4bd719bceee67a4b9fdb439cf2af&=&format=webp&quality=lossless&width=1280&height=256" />
 </picture>
