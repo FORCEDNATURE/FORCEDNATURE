@@ -20,7 +20,7 @@
   <table>
     <tr>
       <td>
-     <img src="https://media.discordapp.net/attachments/1423878256674865174/1562202608582529245/Untitled3_20261020213448.png?ex=6ad9220e&is=6ad7d08e&hm=225847a9d0827f61641a4d1b8d67c7e08c9fd178235eaf2e428e5f14fbbc4e0f&=&format=webp&quality=lossless&width=1024&height=1024" width="50"> ${\textsf{\color{#c4d7c5} pancakes /}}$ ${\textsf{\color{#f5f3f4} flancakes /}}$ ${\textsf{\color{#d3d3d3} piss}}$ 
+     <img src="https://media.discordapp.net/attachments/1423878256674865174/1562202608582529245/Untitled3_20261020213448.png?ex=6ad9220e&is=6ad7d08e&hm=225847a9d0827f61641a4d1b8d67c7e08c9fd178235eaf2e428e5f14fbbc4e0f&=&format=webp&quality=lossless&width=1024&height=1024" width="50"> ${\textsf{\color{#c4d7c5} pancakes /}}$ ${\textsf{\color{#c4d7c5} flancakes /}}$ ${\textsf{\color{#d3d3d3} coyle}}$ 
         
   ${\textsf{\color{#c4d7c5} they}}$ ${\textsf{\color{#65678c} / them}}$ ${\textsf{\color{#231c39} / freak }}$ ${\textsf{\color{#181026} / freakself }}$ 
   
