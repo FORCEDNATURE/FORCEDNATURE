@@ -37,7 +37,7 @@
 <img width="30" height="30" alt="" src="https://github.com/user-attachments/assets/918eff34-52e6-487e-a2e0-b5a020a02954"/> 
   </picture>
   
-  $\color{#c4d7c5}{\textsf{︶}}\qquad$ [ata](https://literallyscout.atabook.org) [guns](https://guns.lol/forcednature) [straw](https://forcednature.straw.page)
+  $\color{#c4d7c5}{\textsf{︶}}\qquad$ [ata](https://asspancakes.atabook.org) [guns](https://guns.lol/forcednature) [straw](https://forcednature.straw.page)
 
 
   </details>
