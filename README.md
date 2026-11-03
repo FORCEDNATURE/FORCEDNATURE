@@ -8,11 +8,11 @@
 
 <p align="center">
 <picture>
-<img width="700" height="100" alt="image" src="https://litter.catbox.moe/fpu5um.png" align="middle" hspace="25"/>
+<img width="700" height="100" alt="image" src="https://github.com/user-attachments/assets/084b4913-b699-4bda-b6f6-26a05852c29b" align="middle" hspace="25"/>
 </picture>
 
 <picture>
-<img width="400" height="400" alt="image" src="https://litter.catbox.moe/s5nh5n.png" align="right" hspace="25"/>
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/da3da866-86c8-4e69-ae6a-7e0379e280c3" align="right" hspace="25"/>
 </picture>
 
 
@@ -20,11 +20,11 @@
   <table>
     <tr>
       <td>
-     <img src="https://litter.catbox.moe/7r77qt.png" width="50">  pancakes , flancakes , coyle
+     <img src="https://github.com/user-attachments/assets/7f6f15bf-4873-4f58-8263-af73c3f0358d" width="40">  pancakes , flancakes , coyle
         
   they/ them / freak/ freakself
   <br> 
- c+h enc 'n always w2i <img src="https://litter.catbox.moe/7r77qt.png" width="40"> 
+ c+h enc 'n always w2i <img src="https://github.com/user-attachments/assets/7f6f15bf-4873-4f58-8263-af73c3f0358d" width="40"> 
       </td>
     </tr>
   </table>
@@ -44,5 +44,5 @@
  <br/>
 <p align="center">
 <picture>
-<img width="700" height="100" alt="image" src="https://litter.catbox.moe/fpu5um.png" align="middle" hspace="25"/>
+<img width="700" height="100" alt="image" src="https://github.com/user-attachments/assets/084b4913-b699-4bda-b6f6-26a05852c29b" align="middle" hspace="25"/>
 </picture>
