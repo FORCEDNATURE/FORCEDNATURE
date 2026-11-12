@@ -20,7 +20,7 @@
   <table>
     <tr>
       <td>
-     <img src="https://github.com/user-attachments/assets/7f6f15bf-4873-4f58-8263-af73c3f0358d" width="40">  pancakes , flancakes , coyle
+     <img src="https://github.com/user-attachments/assets/7f6f15bf-4873-4f58-8263-af73c3f0358d" width="40">  pancakes , flanker , jerm
         
   they/ them / freak/ freakself
   <br> 
