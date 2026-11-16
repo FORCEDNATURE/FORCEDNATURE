@@ -8,11 +8,11 @@
 
 <p align="center">
 <picture>
-<img width="700" height="100" alt="image" src="https://github.com/user-attachments/assets/084b4913-b699-4bda-b6f6-26a05852c29b" align="middle" hspace="25"/>
+<img width="700" height="100" alt="image" src="https://github.com/user-attachments/assets/8c060f0f-142b-4e37-ad8f-ada255a10cb8" align="middle" hspace="25"/>
 </picture>
 
 <picture>
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/da3da866-86c8-4e69-ae6a-7e0379e280c3" align="right" hspace="25"/>
+<img width="400" height="400" alt="image" src="https://media.discordapp.net/attachments/1423878256674865174/1571959903353049240/Untitled85_20261116184503.png?ex=6afca13e&is=6afb4fbe&hm=1aea994d2ae56bdde6e39c01f762f9b0ee7c2a62107314bae25a1aec42c2ffdf&format=webp&quality=lossless&width=1024&height=1024" align="right" hspace="25"/>
 </picture>
 
 
@@ -20,11 +20,11 @@
   <table>
     <tr>
       <td>
-     <img src="https://github.com/user-attachments/assets/7f6f15bf-4873-4f58-8263-af73c3f0358d" width="40">  pancakes , flanker , jerm
+     <img src="https://media.discordapp.net/attachments/1423878256674865174/1571959904250372297/Untitled85_20261116184516.png?ex=6afca13e&is=6afb4fbe&hm=b3fee55753b3390579c5deab28b6c5ad11b53129d21030cd6319d335b04c84be&format=webp&quality=lossless&width=1024&height=1024" width="40">  pancakes , flanker , jerm
         
   they/ them / freak/ freakself
   <br> 
- c+h enc 'n always w2i <img src="https://github.com/user-attachments/assets/7f6f15bf-4873-4f58-8263-af73c3f0358d" width="40"> 
+ c+h enc 'n always w2i <img src="https://media.discordapp.net/attachments/1423878256674865174/1571959904250372297/Untitled85_20261116184516.png?ex=6afca13e&is=6afb4fbe&hm=b3fee55753b3390579c5deab28b6c5ad11b53129d21030cd6319d335b04c84be&format=webp&quality=lossless&width=1024&height=1024" width="40"> 
       </td>
     </tr>
   </table>
@@ -44,5 +44,5 @@
  <br/>
 <p align="center">
 <picture>
-<img width="700" height="100" alt="image" src="https://github.com/user-attachments/assets/084b4913-b699-4bda-b6f6-26a05852c29b" align="middle" hspace="25"/>
+<img width="700" height="100" alt="image" src="https://github.com/user-attachments/assets/8c060f0f-142b-4e37-ad8f-ada255a10cb8" align="middle" hspace="25"/>
 </picture>
