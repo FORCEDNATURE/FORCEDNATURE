@@ -23,7 +23,7 @@
         THEYㅤITㅤITS
                 ㅤ<br>
         ㅤ<br>
-        C+H ENC ALWAYSㅤ.ㅤNEUSHIP   
+    C+H ENCㅤ.ㅤNEUSHIP + NEUFIC   
         ㅤ<br>
         <picture>
 <img width="400" height="400" alt="image" src="https://media.discordapp.net/attachments/1423878256674865174/1571959903353049240/Untitled85_20261116184503.png?ex=6afca13e&is=6afb4fbe&hm=1aea994d2ae56bdde6e39c01f762f9b0ee7c2a62107314bae25a1aec42c2ffdf&format=webp&quality=lossless&width=1024&height=1024" align="right" hspace="25"/>
