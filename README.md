@@ -34,7 +34,7 @@
                 ㅤ<br>
                 ㅤ<br>
                 ㅤ<br>
-MY FRIENDS. [MICK](https://github.com/MickMundySniper) [HYDE](https://github.com/Casnoir) [NIK](https://github.com/srgtsoap) [JOEY](https://github.com/pyrolaand) [NICO](https://github.com/sleepingwithsirens) [SCOUT (MA BF)](https://github.com/theredscout) [JULES](https://github.com/robertinokubica) [MOLD](https://github.com/iblamethatnight) 
+MY FRIENDS. [MICK](https://github.com/MickMundySniper) [HYDE](https://github.com/Casnoir) [NIK](https://github.com/srgtsoap) [JOEY](https://github.com/pyrolaand) [NICO](https://github.com/sIeepingwithsirens) [SCOUT (MA BF)](https://github.com/theredscout) [JULES](https://github.com/robertinokubica) [MOLD](https://github.com/iblamethatnight) 
 <picture>
 <img width="700" height="100" alt="image" src="https://github.com/user-attachments/assets/8c060f0f-142b-4e37-ad8f-ada255a10cb8" align="middle" hspace="25"/> 
         ㅤ<br>
